@@ -8,7 +8,7 @@ romans = {
     'M': 1000, 
 }
 
-s = 'MCMXCIV'
+s = 'XVII'
 romanoList = list(s)
 sum = 0
 
